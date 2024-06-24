@@ -1,1 +1,2 @@
 Un super titre rouge !
+Ajout depuis cagnotte (apparait sans cagnote, pas dans main)
