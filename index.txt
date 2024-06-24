@@ -2,3 +2,4 @@ Un super titre rouge !
 Ajout depuis cagnotte (apparait sans cagnote, pas dans main)
 Ajout pour commit supplémentaire 1
 Ajout pour commit supplémentaire 2
+Ajout pour commit supplémentaire 3
