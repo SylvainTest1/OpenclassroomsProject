@@ -1,7 +1,7 @@
 Un super titre rouge !
 Ajout depuis cagnotte (apparait sans cagnote, pas dans main) cagnotte user3
 Ajout pour commit supplémentaire 1
-Ajout cagnotte
+Ajout cagnotte => ajout user3 qui va aussi aller dans cagnotte
 Ajout pour commit supplémentaire 2
 Ajout pour commit supplémentaire 3
 user3 cagnotte
