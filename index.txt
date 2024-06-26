@@ -1,4 +1,2 @@
 Un super titre rouge !
-<<<<<<< HEAD
 user3
->>>>>>> user3
