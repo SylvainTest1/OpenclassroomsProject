@@ -1,2 +1,4 @@
 Un super titre rouge !
-cagnotte
+<<<<<<< HEAD
+user3
+>>>>>>> user3
